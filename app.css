@@ -1,0 +1,1044 @@
+@media screen and (min-width:1600px) {
+
+body{
+    color: black;
+    margin: 0;
+    background: linear-gradient(0.25turn, #ebd9c8, #ffffff, #ebd9c8);
+}
+
+.title{
+    margin: auto;
+    margin-top: 2%;
+    width: 800px;
+    font-size: 60px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.nav-item{
+    text-align: center;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+
+.nav-link{
+    color: black;
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: rgb(183, 49, 49);
+}
+
+.dropdown-menu{
+    background-color: rgb(244, 226, 206);
+}
+.dropdown-item{
+    color: black;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    background: rgb(197, 197, 197);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+
+}
+
+.icone{
+    width: 50px;
+}
+
+/* ACCUEIL */
+
+.cursive{
+    font-family: 'Calligraffitti', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 140px;
+    color: rgb(72, 72, 72);
+}
+
+.presentation{
+    font-family: 'Anek Telugu', sans-serif;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 40px;
+    padding: 2%;
+    background-color: #faf9f36e;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: rgb(209, 208, 208)
+}
+
+
+.title{
+    color: rgb(72, 72, 72);
+    font-size: 90px;
+    font-weight: bold;
+    width: auto;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.esoteric{
+    position: absolute;
+    opacity: 60%;
+    width: 100%;
+    height: 200px;
+}
+
+/* ACTUALITES */
+.actualites{
+    width: 100%;
+}
+#offres{
+    text-align: left;
+    width: 50%;
+    margin-top: 1%;
+    margin-left: 25%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#offres2{
+    text-align: right;
+    width: 50%;
+    margin-top: 1%;
+    margin-left: 25%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+/* ASTROLOGIE */
+#a_propos_astro{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: right;
+    width: 50%;
+    padding: 30px;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+#natal{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: left;
+    width: 50%;
+    padding: 30px;
+    margin-left: 25%;
+    font-size: 20px;
+}
+.titre{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    margin: 0;
+    font-size: 50px;
+    font-weight:bolder;
+    text-decoration: none;
+    color: rgb(135, 85, 32);
+}
+
+#revolution{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: right;
+    width: 50%;
+    padding: 30px;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+#orientation{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: left;
+    width: 50%;
+    padding: 30px;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+.banniere_astro{
+    width: 100%;
+}
+
+/* CARTOMANCIE */
+
+#carte{
+    text-align: left;
+    width: 50%;
+    margin-top: 1%;
+    margin-left: 25%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#debouclage{
+    text-align: right;
+    width: 50%;
+    padding: 40px;
+    margin-left: 25%;
+    margin-top: 2%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.banniere_carto{
+    width: 100%;
+}
+
+
+/* PROPOS */
+.photo{
+    margin-left: 10%;
+    margin-top: 3%;
+    width: 60%;
+}
+
+
+#a_propos{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    font-size: 20px;
+}
+
+#banniere_qui{
+    width: 100%;
+}
+
+
+/* CONTACT */
+
+.contact{
+    margin-top: 2%;
+    font-size: 25px;
+}
+
+#copy{
+    text-decoration: none;
+    right:5%;
+    margin-top: 15%;
+    color: black;
+}
+
+.lien{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: rgb(135, 85, 32);
+}
+.lien:hover{
+    font-weight: bolder;
+    color: red;
+}
+
+.rose{
+    padding-top: 5%;
+    width: 40%;
+    height: auto;
+}
+.rose_des_vents{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(135, 85, 32);
+}
+.siret{
+    font-size: 20px;
+}
+}
+
+/* ORDI PORTABLE ET TABLETTE PAYSAGE */
+@media screen and (min-width: 960px) and (max-width: 1599px){
+
+body{
+    color: black;
+    margin: 0;
+    background: linear-gradient(0.25turn, #ebd9c8, #ffffff, #ebd9c8);
+}
+.title{
+    margin: auto;
+    margin-top: 2%;
+    width: 800px;
+    font-size: 60px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.nav-item{
+    text-align: center;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.nav-link{
+    color: black;
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: rgb(183, 49, 49);
+}
+
+.dropdown-menu{
+    background-color: rgb(244, 226, 206);
+}
+.dropdown-item{
+    color: black;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    background: rgb(197, 197, 197);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+
+}
+
+.icone{
+    width: 50px;
+}
+
+/* ACCUEIL */
+
+.cursive{
+    font-family: 'Calligraffitti', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 140px;
+    color: rgb(72, 72, 72);
+}
+
+.presentation{
+    font-family: 'Anek Telugu', sans-serif;
+    width: 80%;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 100px;
+    padding: 2%;
+    background-color: #faf9f36e;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: rgb(209, 208, 208)
+}
+
+
+.title{
+    color: rgb(72, 72, 72);
+    font-size: 70px;
+    font-weight: bold;
+    width: auto;
+    text-align: center;
+    position: relative;
+    top: 0.4em;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.esoteric{
+    position: absolute;
+    opacity: 60%;
+    width: 100%;
+    height: auto;
+}
+
+
+/* ASTROLOGIE */
+#a_propos_astro{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: right;
+    width: 70%;
+    padding: 20px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+
+
+#natal{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: left;
+    width: 70%;
+    padding: 20px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.titre{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    margin: 0;
+    font-size: 50px;
+    font-weight:bolder;
+    text-decoration: none;
+    color: rgb(135, 85, 32);
+}
+
+#revolution{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: right;
+    width: 70%;
+    padding: 30px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+
+#orientation{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: left;
+    width: 70%;
+    padding: 30px;
+    margin-left: 15%;
+    
+    font-size: 20px;
+}
+
+.banniere_astro{
+
+    width: 100%;
+}
+
+/* ACTUALITES */
+.actualites{
+    width: 100%;
+}
+
+.banniere_offres{
+    width: 100%;
+}
+#offres{
+    text-align: left;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#offres2{
+    text-align: right;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+/* CARTOMANCIE */
+
+#carte{
+    text-align: left;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#debouclage{
+    text-align: right;
+    width: 70%;
+    padding: 40px;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.banniere_carto{
+    width: 100%;
+}
+/* PROPOS */
+
+.photo{
+    margin-left: 10%;
+    margin-top: 3%;
+    width: 60%;
+}
+
+#a_propos{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    font-size: 20px;
+}
+
+#banniere_qui{
+    width: 100%;
+}
+
+/* CONTACT */
+
+.contact{
+    margin-top: 10%;
+    font-size: 25px;
+}
+
+#copy{
+    text-decoration: none;
+    right:5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    color: black;
+}
+
+.lien{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: rgb(135, 85, 32);
+}
+.lien:hover{
+    font-weight: bolder;
+    color: red;
+}
+
+#copy{
+    text-decoration: none;
+    right:5%;
+    margin-top: 15%;
+    margin-bottom: 0px;
+    color: black;
+}
+.rose{
+    padding-top: 5%;
+    width: 40%;
+    height: auto;
+}
+.rose_des_vents{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(135, 85, 32);
+}
+.siret{
+    font-size: 20px;
+}
+}
+    
+/* TABLETTE PORTRAIT */
+@media screen and (min-width: 768px) and (max-width: 959px){
+
+    body{
+        color: black;
+        margin: 0;
+        background: linear-gradient(0.25turn, #ebd9c8, #ffffff, #ebd9c8);
+    }
+    .title{
+        margin: auto;
+        margin-top: 2%;
+        font-family: 'Anek Telugu', sans-serif;
+    }
+    
+    .nav-item{
+        text-align: center;
+        font-family: 'Anek Telugu', sans-serif;
+    }
+    
+    .nav-link{
+        color: black;
+        font-size: 30px;
+        width: 200px;
+    }
+    .nav-link:hover{
+        color: rgb(183, 49, 49);
+    }
+    
+    .dropdown-menu{
+        background-color: rgb(244, 226, 206);
+    }
+    .dropdown-item{
+        color: black;
+    }
+    
+    .btn{
+        height: 50px;
+        width: 50px;
+        background: rgb(197, 197, 197);
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        cursor: pointer;
+    
+    }
+    
+    .icone{
+        width: 50px;
+    }
+    
+    /* ACCUEIL */
+    .cursive{
+        font-family: 'Calligraffitti', cursive;
+        font-size: 20px;
+        font-weight: bold;
+        width: 80%;
+        text-align: center;
+        margin-left: 10%;
+        margin-top: 50px;
+        color: rgb(72, 72, 72);
+    }
+    
+    .presentation{
+        font-family: 'Anek Telugu', sans-serif;
+        width: 90%;
+        font-size: 20px;
+        text-align: center;
+        margin-left: 5%;
+        margin-top: 50px;
+        padding: 2%;
+        background-color: #faf9f36e;
+        border-width: 3px;
+        border-style: ridge;
+        border-color: rgb(209, 208, 208)
+    }
+    
+    
+    .title{
+        color: rgb(72, 72, 72);
+        font-size: 60px;
+        font-weight: bold;
+        text-align: center;
+        position: relative;
+        font-family: 'Alumni Sans Pinstripe', sans-serif;
+    }
+    
+    .esoteric{
+        position: absolute;
+        opacity: 60%;
+        width: 100%;
+        height: auto;
+    }
+    /* ACTUALITES */
+.actualites{
+    width: 100%;
+}
+#offres{
+    text-align: left;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#offres2{
+    text-align: right;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+    /* ASTROLOGIE */
+    #a_propos_astro{
+        font-family: 'Anek Telugu', sans-serif;
+        text-align: right;
+        width: 70%;
+        padding: 10px;
+        margin-left: 15%;
+        font-size: 20px;
+    }
+    
+    #natal{
+        font-family: 'Anek Telugu', sans-serif;
+        text-align: left;
+        width: 70%;
+        padding: 10px;
+        margin-left: 15%;
+        font-size: 20px;
+    }
+    .titre{
+        font-family: 'Alumni Sans Pinstripe', sans-serif;
+        margin: 0;
+        font-size: 50px;
+        font-weight:bolder;
+        text-decoration: none;
+        color: rgb(135, 85, 32);
+    }
+    
+    #revolution{
+        font-family: 'Anek Telugu', sans-serif;
+        text-align: right;
+        width: 70%;
+        padding: 10px;
+        margin-left: 15%;
+        font-size: 20px;
+    }
+    
+    #orientation{
+        font-family: 'Anek Telugu', sans-serif;
+        text-align: left;
+        width: 70%;
+        padding: 10px;
+        margin-left: 15%;
+        font-size: 20px;
+    }
+    
+    .banniere_astro{
+        margin-top: 5%;
+        width: 100%;
+    }
+    
+    /* CARTOMANCIE */
+    
+    #carte{
+        text-align: left;
+        width: 70%;
+        margin-top: 1%;
+        margin-left: 15%;
+        font-size: 20px;
+        font-family: 'Anek Telugu', sans-serif;
+    }
+    
+    #debouclage{
+        text-align: right;
+        width: 70%;
+        padding: 10px;
+        margin-left: 15%;
+        font-size: 20px;
+        font-family: 'Anek Telugu', sans-serif;
+    }
+    
+    .banniere_carto{
+        margin-top: 5%;
+        width: 100%;
+    }
+
+    /* PROPOS */
+    
+    .photo{
+        margin-left: 10%;
+        margin-top: 3%;
+        width: 60%;
+    }
+    
+    #a_propos{
+        font-family: 'Anek Telugu', sans-serif;
+        text-align: center;
+        margin-left: 15%;
+        width: 70%;
+        font-size: 20px;
+    }
+    
+    #banniere_qui{
+        width: 100%;
+    }
+    
+    /* CONTACT */
+    
+    .contact{
+        margin-top: 10%;
+        font-size: 25px;
+    }
+    
+    #copy{
+        text-decoration: none;
+        right:5%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        color: black;
+    }
+    
+    .lien{
+        text-decoration: underline;
+        font-weight: bolder;
+        color: rgb(135, 85, 32);
+    }
+    .lien:hover{
+        font-weight: bolder;
+        color: red;
+    }
+
+    #copy{
+        text-decoration: none;
+        right:5%;
+        margin-top: 15%;
+        margin-bottom: 0px;
+        color: black;
+    }
+    .rose{
+        padding-top: 5%;
+        width: 40%;
+        height: auto;
+    }
+    .rose_des_vents{
+        font-family: 'Alumni Sans Pinstripe', sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        color: rgb(135, 85, 32);
+    }
+    .siret{
+        font-size: 20px;
+    }
+}
+/* MOBILE */
+@media screen and (max-width: 767px){
+
+    body{
+        color: black;
+        margin: 0;
+        background: linear-gradient(0.25turn, #ebd9c8, #ffffff, #ebd9c8);
+    }
+
+    .btn{
+        height: 50px;
+        width: 50px;
+        background: rgb(197, 197, 197);
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        cursor: pointer;
+    
+    }
+
+    .nav-item{
+        font-family: 'Anek Telugu', sans-serif;
+    }
+    
+    .nav-link{
+        text-align: center;
+        color: black;
+        font-size: 25px;
+        width: 100%;
+    }
+    .nav-link:hover{
+        color: rgb(183, 49, 49);
+    }
+    
+    .dropdown-menu{
+        background-color: rgb(244, 226, 206);
+    }
+    .dropdown-item{
+        text-align: center;
+        justify-content: center;
+        color: black;
+    }
+    .banniere{
+        height: 100px;
+    }
+
+    .title{
+        color: rgb(72, 72, 72);
+        font-size: 2rem;
+        margin: 0px;
+        font-weight: bold;
+        width: auto;
+        text-align: center;
+        position: relative;
+        top: 20%;
+        font-family: 'Alumni Sans Pinstripe', sans-serif;
+    }
+    .esoteric{
+        position: absolute;
+        opacity: 50%;
+        width: 100%;
+        height: 100px;
+        margin-right: 0px;
+    }
+    .cursive{
+        font-family: 'Calligraffitti', cursive;
+        font-size: 15px;
+        font-weight: bold;
+        width: 85%;
+        text-align: center;
+        margin-left: 10%;
+        margin-top: 5%;
+        color: rgb(72, 72, 72);
+    }
+
+    .presentation{
+        width: 90%;
+        font-family: 'Anek Telugu', sans-serif;
+        font-size: 15px;
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 1%;
+        margin-top: 50px;
+        padding: 2%;
+        background-color: #faf9f36e;
+        border-width: 3px;
+        border-style: ridge;
+        border-color: rgb(209, 208, 208)
+    }
+/* ACTUALITES */
+.actualites{
+    width: 100%;
+}
+#offres{
+    text-align: left;
+    width: 80%;
+    margin-top: 1%;
+    margin-left: 10%;
+    font-size: 15px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#offres2{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    width: 88%;
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 15px;
+}
+/* ASTROLOGIE */
+
+#a_propos_astro{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    width: 88%;
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 15px;
+}
+.titre{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 30px;
+    font-weight:bolder;
+}
+
+#natal{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    width: 88%;
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 15px;
+}
+
+#revolution{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    width: 88%;
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 15px;
+}
+
+#orientation{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    width: 88%;
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 15px;
+}
+
+.banniere_astro{
+    width:100%;
+}
+
+/* CARTOMANCIE */
+
+#carte{
+    text-align: justify;
+    width: 88%;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 15px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+#debouclage{
+    text-align: justify;
+    width: 88%;
+    margin-top: 1%;
+    margin-left: 5%;
+    padding: 0px;
+    font-size: 15px;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.banniere_carto{
+width: 100%;
+}
+
+/* A PROPOS */
+
+.photo{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+#a_propos{
+    font-family: 'Anek Telugu', sans-serif;
+    text-align: justify;
+    margin-left: 5%;
+    width: 88%;
+    font-size: 15px;
+}
+
+#banniere_qui{
+    width: 100%;
+}
+
+
+
+/* CONTACT */
+.contact{
+    margin-top: 2%;
+    font-size: 15px;
+}
+
+.lien{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: rgb(135, 85, 32);
+}
+.lien:hover{
+    font-weight: bolder;
+    color: red;
+}
+
+.div_rose{
+text-align: center;
+}
+
+.rose{
+    padding-top: 5%;
+    width: 50%;
+    height: auto;
+}
+.rose_des_vents{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(135, 85, 32);
+}
+.siret{
+    font-size: 15px;
+}
+
+#copy{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 0.8rem;
+    color: black;
+}
+}
+
+
+
